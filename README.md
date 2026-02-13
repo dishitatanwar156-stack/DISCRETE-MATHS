@@ -1,0 +1,2 @@
+# DISCRETE-MATHS
+Djikstar algorithm 
