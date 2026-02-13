@@ -1,5 +1,7 @@
 # DISCRETE-MATHS
-Djikstar algorithm 
+
+
+1. Djikstar algorithm 
 
 <img width="815" height="644" alt="image" src="https://github.com/user-attachments/assets/7647004a-a6ea-42f1-a59b-be43d862fa35" />
 <img width="775" height="412" alt="image" src="https://github.com/user-attachments/assets/a7e0c7ed-9bbf-4f63-a03b-cd60fdfa5340" />
@@ -16,4 +18,15 @@ Djikstar algorithm
 
 #output ( user input )
 <img width="658" height="531" alt="image" src="https://github.com/user-attachments/assets/793d7e5b-95a6-44d6-94bf-8868bf62457d" />
+
+2. Adjacency matrix
+
+<img width="808" height="705" alt="image" src="https://github.com/user-attachments/assets/49573612-4e8b-49ee-a6cf-d57c5d25b398" />
+<img width="742" height="248" alt="image" src="https://github.com/user-attachments/assets/4923eb9f-df6b-47af-8606-47e4857d68fe" />
+
+# output 
+<img width="557" height="401" alt="image" src="https://github.com/user-attachments/assets/26d0c093-7b0d-4794-adf9-d07ed79ee66f" />
+
+
+
 
